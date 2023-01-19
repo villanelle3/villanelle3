@@ -16,3 +16,15 @@ During my vacation, in 2022, I decided to take CS50X, a free "Introduction to Co
 Since then, I've also completed CS50x's follow-on courses "CS50's Web Programming with Python and JavaScript", "CS50's Introduction to Programming with Python", "CS50's Understanding Technology" and "CS50’s Introduction to Artificial Intelligence with Python".
 
 Solving the challenging projects in these courses encouraged me to want to learn even more. So I joined Driven Education's course, a nine-month bootcamp in which we develop several projects.
+
+## 🚀 Learning tools and languages such as:
+
+![Python.](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python.")
+![HTML.](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white "HTML.")
+![CSS.](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS.")
+![JS.](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JS.")
+![JS.](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JS.")
+![Djangp.](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white "Django.")
+![SQL.](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQL.")
+
+
