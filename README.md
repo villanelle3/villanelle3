@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying Engineering at Federal University of Pernambuco (UFPE).
-- 🌱 I’m looking foward to become a Fullstack Developer through Driven Education's course.
+- 🌱 I’m looking foward to become a Fullstack Developer <!--- through Driven Education's course. -->
 - 🤔 I love solving problems, physics and math.
 - 💬 Interested in computer modeling and numerical simulation.
 - 👯 Also very interested in Data Science.
