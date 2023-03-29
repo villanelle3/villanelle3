@@ -1,6 +1,6 @@
 ## Hi there. I'm Laura 👋
 
-<!---
+
 
 - 🔭 I’m currently studying Engineering at Federal University of Pernambuco (UFPE).
 - 🌱 I’m looking foward to become a Fullstack Developer <!--- through Driven Education's course. -->
@@ -18,7 +18,7 @@ Since then, I've also completed CS50x's follow-on courses "CS50's Web Programmin
 
 Solving the challenging projects in these courses encouraged me to want to learn even more. So I joined British School of Creative Arts and Technology's course to became a Fullstack python Developer <!--- So I joined Driven Education's course, a nine-month bootcamp in which we develop several projects. -->
 
--->
+
 
 ## 🚀 Learning tools and languages such as:
 
