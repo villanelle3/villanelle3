@@ -8,7 +8,7 @@
 - 💬 Interested in computer modeling and numerical simulation.
 - 👯 Also very interested in Data Science.
 - ⚡ Technology is also a big passion
-
+-->
 <!---
 In my college I was part of a research group in the area of computational fluid dynamics, being initially a volunteer for 2 years and a fellow for another 2 years. That's where my interest in programming started.
 -->
@@ -35,10 +35,8 @@ Solving the challenging projects in these courses encouraged me to want to learn
 ![Djangp.](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white "Django.")
 ![SQL.](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQL.")
 
-<!---
 ![Villanelle3's GitHub stats](https://github-readme-stats.vercel.app/api?username=villanelle3&show_icons=true&theme=radical)
 https://github.com/anuraghazra/github-readme-stats
--->
 
 
 
