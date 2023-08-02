@@ -21,6 +21,7 @@ Since then, I've also completed CS50x's follow-on courses "CS50's Web Programmin
 <!---
 Solving the challenging projects in these courses encouraged me to want to learn even more. So I joined British School of Creative Arts and Technology's course to become a Fullstack python Developer
 -->
+<!---
 
 ## 🚀 Learning tools and languages such as:
 
@@ -34,7 +35,7 @@ Solving the challenging projects in these courses encouraged me to want to learn
 ![JS.](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JS.")
 ![Djangp.](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white "Django.")
 ![SQL.](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQL.")
-
+-->
 
 
 
