@@ -37,7 +37,7 @@ Solving the challenging projects in these courses encouraged me to want to learn
 ![SQL.](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQL.")
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villanelle3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villanelle3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villanelle3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
